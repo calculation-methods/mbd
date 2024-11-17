@@ -1,0 +1,36 @@
+Rectangle with h = 1
+0.040489
+Rectangle with h = 0.5
+0.0418683
+
+Trapez with h = 1
+0.046395
+Trapez with h = 0.5
+0.043442
+
+Simpson with h = 1
+0.0424577
+Simpson with h = 0.5
+0.0423929
+
+with Runge-Romberg-Richardson method
+Rectangle with h = 1
+0.040489
+погрешность:0.00189816
+Rectangle with h = 0.5
+0.0418683
+погрешность:0.000518844
+
+Trapez with h = 1
+0.046395
+погрешность:0.00400791
+Trapez with h = 0.5
+0.043442
+погрешность:0.00105487
+
+Simpson with h = 1
+0.0424577
+погрешность:7.05285e-05
+Simpson with h = 0.5
+0.0423929
+погрешность:5.72845e-06

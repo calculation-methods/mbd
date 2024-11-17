@@ -1,0 +1,6 @@
+Solution with iteration method with eps = 0.0001:
+1.39532
+count of iterations: 6
+Solution with Newton method with eps = 0.0001:
+1.39534
+count of iterations: 6

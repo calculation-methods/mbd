@@ -1,0 +1,3 @@
+Derivatives of f(x):
+y`(X*) = 2.50175
+y``(X*) = 1.4975

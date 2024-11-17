@@ -1,0 +1,3 @@
+X = 0.1 in range: -0.1 - 0.2
+Function value in this range: -0.20017 - 0.40136
+Function value in X with cubix spline: -0.76488

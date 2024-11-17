@@ -1,0 +1,12 @@
+Rectangle method:
+F = 15.2343; h = 0.5; error = 14.7343
+F = 15.4003; h = 0.25; error = 14.9003
+
+Trapeze method:
+F = 15.8979; h = 0.5; error = 0.332159
+F = 15.5661; h = 0.25; error = 0.000324374
+ 
+Simpson method:
+F = 15.4555; h = 0.5 error = 9.46112e-05
+F = 15.4556; h = 0.25 error = 9.23938e-08
+ 

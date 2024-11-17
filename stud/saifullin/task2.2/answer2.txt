@@ -1,0 +1,7 @@
+eps = 1e-06
+Simple iterations method:
+x1 = 1.27576, x2 = 2.05961
+Count of iterations: 10
+Newton method:
+x1 = 1.27576, x2 = 2.05961
+Count of iterations: 5

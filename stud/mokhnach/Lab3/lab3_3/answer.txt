@@ -1,0 +1,8 @@
+Least squares polynom [1st power]:
+2.60728x^0 + 0.382267x^1
+error = 0.637538
+
+Least squares polynom [2nd power]:
+3.20861x^0 + -0.0811603x^1 + 0.0715993x^2
+error = 0.490258
+

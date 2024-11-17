@@ -1,0 +1,43 @@
+\section* {2.2  Метод простой итерации и метод Ньютона для решения систем нелинейных уравнений}
+
+\subsection{Постановка задачи}
+Реализовать методы простой итерации и Ньютона решения систем нелинейных уравнений в виде программного кода, задавая в качестве входных данных точность вычислений. С использованием разработанного программного обеспечения решить систему нелинейных уравнений (при наличии нескольких решений найти то из них, в котором значения неизвестных являются положительными); начальное приближение определить графически. Проанализировать зависимость погрешности вычислений от количества итераций. 
+ 
+
+{\bfseries Вариант:} 22
+
+\begin{cases}
+& ax_1^2 - x_1 + x_2^2 - 1  = 0 \\
+& x_2 - tgx_1 = 0 \\
+\end{cases}
+% \pagebreak
+
+\subsection{Результаты работы}
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.9\textwidth]{lab2_2}
+\caption{Вывод программы в консоли}
+\end{figure}
+
+% \vfill
+
+% \begin{figure}[h!]
+% \centering
+% \includegraphics[width=.9\textwidth]{lab5_taylor}
+% \caption{Решение с аппроксимацией граничных условий со вторым порядком}
+% \end{figure}
+\pagebreak
+
+\subsection{Исходный код}
+% \lstinputlisting[language=C++]{matrix.cpp}
+% \begin{lstlisting}
+\lstinputlisting{include/lab2_2.cpp}
+\lstinputlisting{include/matrix.cpp}
+\lstinputlisting{include/matrix.h}
+% \end{lstlisting}
+% \lstinputlisting{matrix.cpp}
+% {../../include/matrix.cpp}
+% \pagebreak
+% \lstinputlisting[title=\texttt{parabolic\_pde.hpp}]{../../include/partial_differential/parabolic_pde.hpp}
+% \pagebreak
+% 

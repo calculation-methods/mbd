@@ -1,0 +1,7 @@
+Progon_method solution
+x[0] = 1
+x[1] = -6
+x[2] = -6
+x[3] = -6
+x[4] = -9
+

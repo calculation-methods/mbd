@@ -1,0 +1,13 @@
+.vs/
+.vscode
+.idea
+
+CMakeSettings.json
+CppProperties.json
+CMakeLists.txt
+
+*.exe
+
+venv
+__pycache__
+cmake-build-debug

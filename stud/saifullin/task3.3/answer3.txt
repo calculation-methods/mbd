@@ -1,0 +1,8 @@
+First-degree polynomial
+-1.46917 -0.837155 -0.205144 0.426867 1.05888 1.69089 
+
+Second-degree polynomial
+-1.45472 -0.840044 -0.216699 0.415312 1.05599 1.70533 
+
+Sum of squares of errors for the first-degree polynomial: 0.00394166
+Sum of squares of errors for the second-degree polynomial: 0.00324066

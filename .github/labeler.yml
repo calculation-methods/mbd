@@ -1,0 +1,19 @@
+TeX:
+- changed-files:
+  - any-glob-to-any-file: '*.tex'
+
+ЛР1:
+- base-branch: 'lab1'
+
+ЛР2:
+- base-branch: 'lab2'
+
+ЛР3:
+- base-branch: 'lab3'
+
+ЛР4:
+- base-branch: 'lab4'
+
+Служебный:
+- base-branch: 'master'
+

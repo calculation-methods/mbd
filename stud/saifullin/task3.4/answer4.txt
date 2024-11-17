@@ -1,0 +1,7 @@
+First diff
+left diff:	1.7854
+right diff:	1.3217
+diff with second order precision:	1.55355
+
+Second diff
+-0.4637

@@ -1,0 +1,15 @@
+eps = 0.001
+
+Method Iteration
+Count of iterations:21
+x[0] = 9.00033
+x[1] = 5.00023
+x[2] = 3.00024
+x[3] = 4.00031
+
+Method Zeidel
+Count of iterations:9
+x[0] = 9.00013
+x[1] = 5.00007
+x[2] = 2.99998
+x[3] = 3.99996
