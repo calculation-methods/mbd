@@ -1,1 +1,4 @@
 tmp
+.virtual_documents
+.ipynb_checkpoints
+main.py
